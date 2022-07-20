@@ -28,7 +28,7 @@
 
 
 ### :fire: My Stats :
-[![glitterer's GitHub stats](https://github-readme-stats.vercel.app/api?username=glitterer)](https://github.com/glitterer/github-readme-stats)
+[![glitterer's GitHub stats](https://github-readme-stats.vercel.app/api?username=glitterer)](https://github.com/glitterer/github-readme-stats)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glitterer&layout=compact)](https://github.com/glitterer/github-readme-stats) <br/>
 
 
