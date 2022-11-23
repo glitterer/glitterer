@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning iOS (particularly SwiftUI) in [Apple Developer Academy @ POSTECH](https://developeracademy.postech.ac.kr/) <br/>
 🧑🏻‍💻 I’m currently studying algorithms with [Leetcode](https://leetcode.com/) <br/>
-🧐 My interests are currently in Education, HCI(Human-Computer Interaction), iOS Development, and AI(Artificial Intelligence) <br/><br/>
+🧐 My interests are currently in Education, HCI(Human-Computer Interaction), Web-development, iOS Development, and AI(Artificial Intelligence) <br/><br/>
 
 ### :hammer_and_wrench: Languages and Tools : <br/>
 <div>
