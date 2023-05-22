@@ -28,14 +28,13 @@
 <br/>
 
 
-### :fire: My Stats :
+<!-- ### :fire: My Stats :
 [![glitterer's GitHub stats](https://github-readme-stats-beryl.vercel.app/api?username=glitterer&show_icons=true&theme=tokyonight)](https://github-readme-stats-beryl.vercel.app/api?username=glitterer&show_icons=true&theme=tokyonight)<br/>
 [![Top Langs](https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=glitterer&layout=compact&show_icons=true&theme=tokyonight)](https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=glitterer&layout=compact&show_icons=true&theme=tokyonight) <br/>
 
 <!--https://github-readme-stats.vercel.app/api/top-langs/?username=glitterer&layout=compact
 *themes: e.g. dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 -->
-
 
 
 
