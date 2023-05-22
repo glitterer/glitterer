@@ -1,6 +1,7 @@
 ### :wave: Hi there
 
-🌱 I’m currently learning iOS (particularly SwiftUI) in [Apple Developer Academy @ POSTECH](https://developeracademy.postech.ac.kr/) <br/>
+🎓 From Fall semester 2023, I will be studying at **Brown University** for my Master's Degree in Computer Science. <br/>
+🌱 I’m currently an alumni of [Apple Developer Academy @ POSTECH](https://developeracademy.postech.ac.kr/) <br/>
 🧑🏻‍💻 I’m currently studying algorithms with [Leetcode](https://leetcode.com/) <br/>
 🧐 My interests are currently in Education, HCI(Human-Computer Interaction), Web-development, iOS Development, and AI(Artificial Intelligence) <br/><br/>
 
