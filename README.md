@@ -3,7 +3,7 @@
 🎓 I am studying at **Brown University** for my Master's Degree in Computer Science. <br/>
 🌱 I’m currently an alumni of [Apple Developer Academy @ POSTECH](https://developeracademy.postech.ac.kr/) <br/>
 <!--🧑🏻‍💻 I’m currently studying algorithms with [Leetcode](https://leetcode.com/) <br/> --->
-🧐 My interests are currently in Education, HCI(Human-Computer Interaction), Web-development, iOS Development, and AI(Artificial Intelligence) <br/><br/>
+🧐 My interests are currently in Education, HCI(Human-Computer Interaction), iOS Development, Computer Vision, and General AI <br/><br/>
 
 ### :hammer_and_wrench: Languages and Tools : <br/>
 <div>
