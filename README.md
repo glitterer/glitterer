@@ -5,7 +5,7 @@
 <!--📝 I am currently trying to write a research paper on the [SpaceOver](https://github.com/DeveloperAcademy-POSTECH/MacC-Team-TARS) app project done during my time at [Apple Developer Academy @ POSTECH](https://developeracademy.postech.ac.kr/) <br/> --->
 🚀 I am in the RISDXNASA project as the dev team at [RISD SUITS24](https://github.com/RISDxNASA-SUITS/SUITS-24) and RISD SUITS25
 <!--🧑🏻‍💻 I’m currently studying algorithms with [Leetcode](https://leetcode.com/) <br/> --->
-🧐 My interests are in HCI(Human-Computer Interaction), iOS development, computer vision, general AI, and education <br/><br/>
+🧐 My interests are in HCI(Human-Computer Interaction), accessibility, iOS development, computer vision, general AI, and education(i.e. Learning Sciences) <br/><br/>
 
 ### :hammer_and_wrench: Languages and Tools : <br/>
 <div>
